@@ -1,1 +1,1 @@
-
+Directory contains code written for assignments in Modelling Complex Systems (1MA256) attended in spring 2019. "Cellular Automata", "Population Dynamics", "Preferential Network", and "Spread of Memes" are shorter assignments discussed in the two PDF files MaksPr1 and MaksPr2 while "Small World Project" has code and a PDF file used to investigate and modify th Small world network model proposed by Strogatz and Watts.
