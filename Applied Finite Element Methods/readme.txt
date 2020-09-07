@@ -1,1 +1,1 @@
-
+Code from course Applied Finite Element Methods (1TD056) attended in autumn 2019. This directory contains the code for 1 dimension, 2 dimensions, and time dependent 2 dimensions. The code for the 3D part can be found in Various-university-assignments-in-Python/Finite-Element-Methods
